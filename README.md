@@ -1,2 +1,3 @@
-# demo-repo
-demo repo from video
+# demo-repository
+
+Demo repository description
