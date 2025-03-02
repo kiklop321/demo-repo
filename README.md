@@ -16,5 +16,3 @@ Watch tutorial on Youtube.
  3. New text
  4. New line
  5. Hovno
- 6. Hovno
- 8. Hovno
