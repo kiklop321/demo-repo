@@ -1,9 +1,6 @@
 # demo-repository
 
 Demo repository description!!
-bla
-
-hovno
 
 ## Subheader
 
